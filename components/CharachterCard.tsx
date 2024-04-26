@@ -39,7 +39,7 @@ function CharachterCard({ charachter, index }: Prop) {
     >
       <div className="relative w-full h-[37vh]">
         <Image
-          src={`https://shikimori.one${charachter.image.original}`}
+          src={`https://shikimori.one${charachter.image?.original}`}
           alt={charachter.name}
           fill
           className="rounded-xl"
@@ -59,7 +59,7 @@ function CharachterCard({ charachter, index }: Prop) {
         <div className="flex gap-4 items-center">
           <div className="flex flex-row gap-2 items-center">
             <p className="text-white text-sm font-bold">
-              {charachter.animes.length != null &&
+              {charachter?.animes?.length != null &&
                 charachter.animes
                   .slice(0, 3)
                   .map((anime) => anime.name)

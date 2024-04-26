@@ -5,7 +5,7 @@ import CharachterCard, { CharachterProp } from "@/components/CharachterCard";
 
 export const fetchAnime = async (page: number) => {
   const response = await fetch(
-    `https://shikimori.one/api/animes?page=${page}&limit=7&order=popularity`
+    `https://shikimori.one/api/animes?page=${page}&limit=8&order=popularity`
   );
 
   const data = await response.json();
@@ -15,13 +15,16 @@ export const fetchAnime = async (page: number) => {
   ));
 };
 
-export const fetchCharacter = async (len: number) => {
+export const fetchCharacter = async (start: number) => {
   let listedData = [];
 
-  for (let i = 1; i <= len; i++) {
+  for (let i = start; i <= start + 7; i++) {
     const response = await fetch(`https://shikimori.one/api/characters/${i}`);
 
     if (response != null) {
+      if (!response.ok) {
+        continue;
+      }
       const data = await response.json();
       listedData.push(data);
     } else continue;
