@@ -1,0 +1,206 @@
+{
+  id: 1,
+  name: 'Spike Spiegel',
+  russian: 'Спайк Шпигель',
+  image: {
+    original: '/system/characters/original/1.jpg?1712015283',
+    preview: '/system/characters/preview/1.jpg?1712015283',
+    x96: '/system/characters/x96/1.jpg?1712015283',
+    x48: '/system/characters/x48/1.jpg?1712015283'
+  },
+  url: '/characters/1-spike-spiegel',
+  altname: 'Spike Spiegel',
+  japanese: 'スパイク・スピーゲル',
+  description: 'Охотник за головами, который в прошлом состоял в преступном синдикате «Красный дракон». Фанат Брюса Ли. На высоком уровне владеет техникой боевого искусства [url=http://ru.wikipedia.org/wiki/Джиткундо]джиткундо[/url]. Меткий стрелок. Редко отвечает на вопросы, касающиеся его прошлого. Не боится умереть. Не доверяет людям. Часто подвергает себя и своих спутников напрасному риску. Любит курить сигареты марки Xing Mao. Друзей немного, но ради них готов на всё.\r\n' +
+    '[spoiler]Простреленный в одной из перестрелок глаз заменён кибернетическим. «Один мой глаз видит настоящее, другой — прошлое». Любил и будет любить только [character=2735]Джулию[/character].[/spoiler]',
+  description_html: '<div class="b-text_with_paragraphs">Охотник за головами, который в прошлом состоял в преступном синдикате «Красный дракон». Фанат Брюса Ли. На высоком уровне владеет техникой боевого искусства <a class="b-link" href="http://ru.wikipedia.org/wiki/Джиткундо" rel="noopener noreferrer nofollow">джиткундо</a>. Меткий стрелок. Редко отвечает на вопросы, касающиеся его прошлого. Не боится умереть. Не доверяет людям. Часто подвергает себя и своих спутников напрасному риску. Любит курить сигареты марки Xing Mao. Друзей немного, но ради них готов на всё.<br><div class="b-spoiler_block to-process" data-dynamic="spoiler_block"><span tabindex="0">спойлер</span><div>Простреленный в одной из перестрелок глаз заменён кибернетическим. «Один мой глаз видит настоящее, другой — прошлое». Любил и будет любить только <a href="https://shikimori.one/characters/2735-julia" title="Julia" class="bubbled b-link" data-tooltip_url="https://shikimori.one/characters/2735-julia/tooltip" data-attrs="{&quot;id&quot;:2735,&quot;type&quot;:&quot;character&quot;,&quot;name&quot;:&quot;Julia&quot;,&quot;russian&quot;:&quot;Джулия&quot;}">Джулию</a>.</div></div></div>',
+  description_source: 'http://ru.wikipedia.org/w/index.php?title=Cowboy_Bebop',
+  favoured: false,
+  thread_id: 31103,
+  topic_id: 31103,
+  updated_at: '2024-04-18T15:06:53.975+03:00',
+  seyu: [
+    {
+      id: 11,
+      name: 'Kouichi Yamadera',
+      russian: 'Коити Ямадэра',
+      image: [Object],
+      url: '/people/11-kouichi-yamadera'
+    },
+    {
+      id: 12,
+      name: 'Steven Blum',
+      russian: 'Стивен Блюм',
+      image: [Object],
+      url: '/people/12-steven-blum'
+    },
+    {
+      id: 57250,
+      name: 'Genaro Vásquez',
+      russian: '',
+      image: [Object],
+      url: '/people/57250-genaro-v-squez'
+    },
+    {
+      id: 25903,
+      name: 'Bruno Mullenaerts',
+      russian: 'Бруно Мюлленарт',
+      image: [Object],
+      url: '/people/25903-bruno-mullenaerts'
+    },
+    {
+      id: 1638,
+      name: 'Viktor Neumann',
+      russian: 'Виктор Нойманн',
+      image: [Object],
+      url: '/people/1638-viktor-neumann'
+    },
+    {
+      id: 1099,
+      name: 'Guilherme Briggs',
+      russian: 'Гильерме Бриггс',
+      image: [Object],
+      url: '/people/1099-guilherme-briggs'
+    },
+    {
+      id: 14781,
+      name: 'Ja hyeong Gu',
+      russian: 'Джахён Гу',
+      image: [Object],
+      url: '/people/14781-ja-hyeong-gu'
+    },
+    {
+      id: 24991,
+      name: 'Joan Pera',
+      russian: 'Джоан Пера',
+      image: [Object],
+      url: '/people/24991-joan-pera'
+    },
+    {
+      id: 7787,
+      name: 'Zoltán Juhász',
+      russian: 'Зольтан Юхас',
+      image: [Object],
+      url: '/people/7787-zolt-n-juh-sz'
+    },
+    {
+      id: 23627,
+      name: 'Martin Halm',
+      russian: 'Мартин Халм',
+      image: [Object],
+      url: '/people/23627-martin-halm'
+    },
+    {
+      id: 781,
+      name: 'Massimo De ambrosis',
+      russian: 'Массимо Де Амброзис',
+      image: [Object],
+      url: '/people/781-massimo-de-ambrosis'
+    },
+    {
+      id: 10021,
+      name: 'José Gilberto Vilchis',
+      russian: 'Хосе Жилберто Вильчис',
+      image: [Object],
+      url: '/people/10021-jos-gilberto-vilchis'
+    },
+    {
+      id: 10028,
+      name: 'Yamil Atala',
+      russian: 'Ямиль Атала',
+      image: [Object],
+      url: '/people/10028-yamil-atala'
+    },
+    {
+      id: 9237,
+      name: 'Yann Pichon',
+      russian: 'Янн Пишон',
+      image: [Object],
+      url: '/people/9237-yann-pichon'
+    }
+  ],
+  animes: [
+    {
+      id: 1,
+      name: 'Cowboy Bebop',
+      russian: 'Ковбой Бибоп',
+      image: [Object],
+      url: '/animes/1-cowboy-bebop',
+      kind: 'tv',
+      score: '8.75',
+      status: 'released',
+      episodes: 26,
+      episodes_aired: 0,
+      aired_on: '1998-04-03',
+      released_on: '1999-04-24',
+      roles: [Array],
+      role: 'Main'
+    },
+    {
+      id: 5,
+      name: 'Cowboy Bebop: Tengoku no Tobira',
+      russian: 'Ковбой Бибоп: Достучаться до небес',
+      image: [Object],
+      url: '/animes/5-cowboy-bebop-tengoku-no-tobira',
+      kind: 'movie',
+      score: '8.38',
+      status: 'released',
+      episodes: 1,
+      episodes_aired: 0,
+      aired_on: '2001-09-01',
+      released_on: null,
+      roles: [Array],
+      role: 'Main'
+    },
+    {
+      id: 4037,
+      name: 'Cowboy Bebop: Yose Atsume Blues',
+      russian: 'Ковбой Бибоп: Урок ХХ',
+      image: [Object],
+      url: '/animes/4037-cowboy-bebop-yose-atsume-blues',
+      kind: 'tv_special',
+      score: '7.41',
+      status: 'released',
+      episodes: 1,
+      episodes_aired: 0,
+      aired_on: '1998-06-26',
+      released_on: null,
+      roles: [Array],
+      role: 'Main'
+    }
+  ],
+  mangas: [
+    {
+      id: 173,
+      name: 'Cowboy Bebop',
+      russian: 'Ковбой Бибоп',
+      image: [Object],
+      url: '/mangas/173-cowboy-bebop',
+      kind: 'manga',
+      score: '7.15',
+      status: 'released',
+      volumes: 3,
+      chapters: 11,
+      aired_on: '1999-04-08',
+      released_on: '2000-04-10',
+      roles: [Array],
+      role: 'Main'
+    },
+    {
+      id: 174,
+      name: 'Shooting Star Bebop: Cowboy Bebop',
+      russian: 'Ковбой Бибоп: Падающая звезда',
+      image: [Object],
+      url: '/mangas/174-shooting-star-bebop-cowboy-bebop',
+      kind: 'manga',
+      score: '6.7',
+      status: 'released',
+      volumes: 2,
+      chapters: 10,
+      aired_on: '1998-05-01',
+      released_on: '1998-10-10',
+      roles: [Array],
+      role: 'Main'
+    }
+  ]
+}
