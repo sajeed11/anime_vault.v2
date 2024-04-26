@@ -4,6 +4,8 @@
 
 Welcome to our anime repository! This repository is dedicated to showcasing a list of anime sorted by popularity, presented in card form. It's built using Next.js, making it a great resource for learning server-side actions.
 
+Already I've done some changes to the base code of Adrian Hajdin, first following his tutorial on YouTube and second adding the charachters page. Here's the link of the repo that I've started from: [Starting Repo](https://github.com/sajeed11/anime_vault)
+
 ## New Features
 
 From Adrian Next.js project in YouTube, I want to add some new features to better understood server-actions and more stuff in Next.js and Typescript.
